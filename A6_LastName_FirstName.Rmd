@@ -36,7 +36,7 @@ For the midterm proposal, briefly describe your topic along with both an article
 
 - Provide your presentation title. It can be the same as the title of your article. Or, you can modify the title.
 
-# Data
+# Data (Peter)
 
 - Describe your dataset that is relevant, related to, and informative of the article.
 
@@ -47,7 +47,7 @@ For the midterm proposal, briefly describe your topic along with both an article
 ```
 
 
-# Data Validation
+# Data Validation (Sarah)
 
 - Check the content of the attributes, traits, features, rows, and/or other properties specific to your dataset.
 
@@ -67,7 +67,7 @@ For the midterm proposal, briefly describe your topic along with both an article
 ```
 
     
-# Plot 
+# Plot (Monica)
 
 - Describe a plot type that you like to create (e.g., barplot, boxplot, scatterplot).
 
