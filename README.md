@@ -1,4 +1,4 @@
 # 3003_Midterm
-Group 9 Members: Peter Shin, Monica Youssef, Sarah Gould
-Article Link: https://degree.lamar.edu/articles/undergraduate/parents-education-level-and-childrens-success/
+Group 9 Members: Peter Shin, Monica Youssef, Sarah Gould <br />
+Article Link: https://degree.lamar.edu/articles/undergraduate/parents-education-level-and-childrens-success/ <br />
 Dataset Link: https://www.kaggle.com/spscientist/students-performance-in-exams
