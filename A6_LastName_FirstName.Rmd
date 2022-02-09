@@ -1,0 +1,83 @@
+---
+title: "Assignment 6 - Midterm Proposal (2 pts)"
+author: "TYPE YOUR NAME HERE (UVA computing ID)"
+date: "Due Date: 11:59pm, Feb 15"
+output:
+  html_document:
+    number_sections: yes
+    toc: yes
+    toc_float: yes
+    code_folding: hide
+  pdf_document:
+    toc: yes
+---
+
+<style>
+h1.title {
+  font-size: 30px;
+}
+h1 {
+  font-size: 26px;
+}
+h2 {
+  font-size: 22px;
+}
+h3 { 
+  font-size: 18px;
+}
+
+</style>
+
+For the midterm proposal, briefly describe your topic along with both an article/report/blog and a dataset. *Submit both `.Rmd` and "knitted"`.html` files*
+
+# Article
+
+- Include a link to access your article. 
+
+- Provide your presentation title. It can be the same as the title of your article. Or, you can modify the title.
+
+# Data
+
+- Describe your dataset that is relevant, related to, and informative of the article.
+
+- Print the first 6 rows using function `head()`.
+
+```{r}
+
+```
+
+
+# Data Validation
+
+- Check the content of the attributes, traits, features, rows, and/or other properties specific to your dataset.
+
+   + Is the data type correct for this field?
+
+   + Is the value within the valid range or part of a domain or enumerated list?
+
+   + Check for duplicates, for example of a unique key.
+
+   + Check for nulls. Are there mandatory values, or are null / empty values allowed? Are the null types consistent (NaN, infinity, empty strings, etc.)?
+
+
+- Tips: for duplicates, use function `unique()`. For missing values, use function `is.na()`. To delete all rows with a missing, use function `na.omit()`. Feel free to use other functions to check duplicates and missing values.
+
+```{r}
+
+```
+
+    
+# Plot 
+
+- Describe a plot type that you like to create (e.g., barplot, boxplot, scatterplot).
+
+
+# Post on Discussion Board
+
+- Check your presentation day. 
+
+- Create a post on the discussion board with your presentation title as the post title by 11:59 pm, Feb 15. You'll edit your post on the discussion board to include your presentation files.
+
+- You should upload your presentation files (rmd & html) and dataset you used on the discussion board by the day before your presentation day. For example, if you're a presenter on Feb 21, upload your presentation files by 11:59 pm, Feb 20.  
+
+
