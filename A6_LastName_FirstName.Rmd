@@ -39,6 +39,7 @@ https://degree.lamar.edu/articles/undergraduate/parents-education-level-and-chil
 - Provide your presentation title. It can be the same as the title of your article. Or, you can modify the title.
 
 The Effects of Socio-Economic Status on Student Performance in Exams
+
 # Data
 
 - Describe your dataset that is relevant, related to, and informative of the article.
@@ -74,7 +75,7 @@ The Effects of Socio-Economic Status on Student Performance in Exams
 
 - Describe a plot type that you like to create (e.g., barplot, boxplot, scatterplot).
 
-We want to make boxplots correltating sex and performance on math, reading, and writing exams. We also want to create a boxplot to associate the status of lunch (whether free or reduced) to exam scores. We could additionally make conditioning plots to see if there is any evidence of Simpson's Paradox. Additionally, we can create scatterplots comparing two types of exams, such as math and reading, to see if students who achieve well in oen subject also do well in another. 
+We want to make boxplots correltating sex and performance on math, reading, and writing exams. We also want to create a boxplot to associate the status of lunch (whether free or reduced) to exam scores. We could additionally make conditioning plots to see if there is any evidence of Simpson's Paradox in terms of the correlation between the parents' level of education and the result of student exams. Additionally, we can create scatterplots comparing two types of exams, such as math and reading, to see if students who achieve well in oen subject also do well in another. 
 
 # Post on Discussion Board
 
