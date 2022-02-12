@@ -34,16 +34,24 @@ For the midterm proposal, briefly describe your topic along with both an article
 
 - Include a link to access your article. 
 
+Link: https://degree.lamar.edu/articles/undergraduate/parents-education-level-and-childrens-success/
+Dataset: https://www.kaggle.com/spscientist/students-performance-in-exams
+
 - Provide your presentation title. It can be the same as the title of your article. Or, you can modify the title.
 
 # Data (Peter)
 
 - Describe your dataset that is relevant, related to, and informative of the article.
 
+The dataset contains attributes including gender, race, parent education level, test preparation, and their eligibility to get free/reduced lunch at school.
+Then the results are encapsulated in their reading, writing, and math scores. This data ties into the article as who/what the parents are can impact
+their children's academic levels and/or success. The descriptions of all the variables are in the info section on the kaggle page.
+
 - Print the first 6 rows using function `head()`.
 
 ```{r}
-
+dat <- read.csv("StudentsPerformance.csv")
+head(dat)
 ```
 
 
